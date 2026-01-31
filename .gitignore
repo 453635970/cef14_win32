@@ -1,5 +1,13 @@
+.vs/
+/cef14/
+**/Release/
+*.user
+libcef.dll
+
 # Prerequisites
 *.d
+.log
+
 
 # Compiled Object files
 *.slo
@@ -20,7 +28,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+
 
 # Fortran module files
 *.mod
@@ -30,10 +38,8 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
